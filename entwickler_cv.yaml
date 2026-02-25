@@ -1,0 +1,88 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.6/schema.json
+cv:
+  name: "Fernando D. Armengol Gonzalez"
+  headline: "Fullstack-Softwareentwickler"
+  location: Alicante, Spanien
+  email: fernandoarmengoldev@gmail.com
+  phone: +34-610-838-818
+  photo: imagen.jpg
+  social_networks:
+    - network: GitHub
+      username: fernandoarmengoldev
+  custom_connections:
+    - placeholder: Fernando D. Armengol González
+      url: https://www.linkedin.com/in/fernando-armengol-gonz%C3%A1lez-090209265/
+      fontawesome_icon: linkedin
+  sections:
+    über_mich:
+      - "Ich verfüge über praktische Erfahrung in der Entwicklung optimierter Anwendungen und Websites, Linux-Serveradministration und Implementierung von Sicherheitsmaßnahmen. Ich spezialisiere mich auf das Design effizienter Lösungen mit Fokus auf Softwareleistung und -sicherheit. Ich zeichne mich durch Anpassungsfähigkeit, Proaktivität, Selbststudium und Engagement für kontinuierliche Verbesserung aus."
+    berufserfahrung:
+      - company: Geriátrico Doña Rosa
+        position: Junior-Entwickler (Praktikum)
+        start_date: 2025-10
+        end_date: 2026-02
+        location: Alicante, Spanien
+        highlights:
+          - "Entwicklung mehrerer Websites mit Astro, Tailwind CSS und TypeScript"
+          - "Verantwortlich für die Erstellung und Konfiguration eines Linux-Servers und seiner Dienste"
+          - "Sicherheitsadministrator mit Cloudflare"
+      - company: SMART & FUN
+        position: Junior-Programmierer
+        start_date: 2023-09
+        end_date: 2023-11
+        location: Alicante, Spanien
+        highlights:
+          - "Verantwortlich für die Wartung einer Website"
+          - "Verwendung von Ruby, Rails, HTML, CSS, JavaScript und Bootstrap"
+      - company: NTT Data
+        position: Junior-Programmierer (Praktikum)
+        start_date: 2022-03
+        end_date: 2022-06
+        location: Alicante, Spanien
+        highlights:
+          - "Verantwortlich für Wartung und Aktualisierung des Web-Frontends"
+          - "Verwendung von JAVA, Spring, HTML, CSS und Bootstrap"
+    ausbildung:
+      - institution: IG Formación
+        area: Web-App-Entwicklung
+        degree: DAW
+        start_date: 2024
+        end_date: 2025
+      - institution: IG Formación
+        area: Multiplattform-App-Entwicklung
+        degree: DAM
+        start_date: 2020
+        end_date: 2022
+      - institution: IES Jaime II
+        area: Naturwissenschaften
+        degree: Abitur
+    zusätzliche_kurse:
+      - company: Industrie- und Handelskammer
+        position: Kurs in Marketing und digitaler Kommunikation
+        date: 2024
+    sprachen:
+      - label: Spanisch
+        details: Muttersprache
+      - label: Valencianisch
+        details: Fortgeschritten
+      - label: Englisch
+        details: Mittelstufe
+      - label: Deutsch
+        details: Grundkenntnisse
+    technische_fähigkeiten:
+      - label: Programmiersprachen
+        details: "TypeScript, JavaScript, Java, C#, Python, PHP, Ruby, Kotlin"
+      - label: Frameworks und Web-Technologien
+        details: "AstroJS, Spring, Rails, JavaFX, HTML, CSS, Tailwind CSS, Bootstrap"
+      - label: Datenbanken und Infrastruktur
+        details: "PostgreSQL, MySQL, MongoDB, SQLite, Cloudflare, Linux, Docker, Git"
+design:
+  theme: customtheme
+  typography:
+    font_size:
+      name: 24pt
+      headline: 16pt
+locale:
+  language: german
+settings:
+  current_date: '2026-02-11'

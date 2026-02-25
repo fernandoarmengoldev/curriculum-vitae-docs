@@ -1,0 +1,88 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.6/schema.json
+cv:
+  name: "Fernando D. Armengol Gonzalez"
+  headline: "Fullstack Software Developer"
+  location: Alicante, Spain
+  email: fernandoarmengoldev@gmail.com
+  phone: +34-610-838-818
+  photo: imagen.jpg
+  social_networks:
+    - network: GitHub
+      username: fernandoarmengoldev
+  custom_connections:
+    - placeholder: Fernando D. Armengol González
+      url: https://www.linkedin.com/in/fernando-armengol-gonz%C3%A1lez-090209265/
+      fontawesome_icon: linkedin
+  sections:
+    about_me:
+      - "I have practical experience in developing optimized applications and websites, Linux server administration, and implementing security measures. I specialize in designing efficient solutions prioritizing software performance and security. I stand out for my adaptability, proactivity, self-learning and commitment to continuous improvement."
+    work_experience:
+      - company: Geriátrico Doña Rosa
+        position: Junior Developer (Internship)
+        start_date: 2025-10
+        end_date: 2026-02
+        location: Alicante, Spain
+        highlights:
+          - "Development of multiple websites using Astro, Tailwind CSS, and TypeScript"
+          - "In charge of creating and configuring a Linux server and its services"
+          - "Security administrator using Cloudflare"
+      - company: SMART & FUN
+        position: Junior Programmer
+        start_date: 2023-09
+        end_date: 2023-11
+        location: Alicante, Spain
+        highlights:
+          - "Responsible for maintaining a website"
+          - "Used Ruby, Rails, HTML, CSS, JavaScript, and Bootstrap"
+      - company: NTT Data
+        position: Junior Programmer (Internship)
+        start_date: 2022-03
+        end_date: 2022-06
+        location: Alicante, Spain
+        highlights:
+          - "Responsible for maintenance and updates of web frontend"
+          - "Used JAVA, Spring, HTML, CSS, and Bootstrap"
+    education:
+      - institution: IG Formación
+        area: Web Application Development
+        degree: DAW
+        start_date: 2024
+        end_date: 2025
+      - institution: IG Formación
+        area: Multiplatform Application Development
+        degree: DAM
+        start_date: 2020
+        end_date: 2022
+      - institution: IES Jaime II
+        area: High School Diploma in Science
+        degree: HSD
+    additional_courses:
+      - company: Chamber of Commerce
+        position: Course in Marketing and Digital Communication
+        date: 2024
+    languages:
+      - label: Spanish
+        details: Native
+      - label: Valencian
+        details: Advanced
+      - label: English
+        details: Intermediate
+      - label: German
+        details: Basic
+    technical_skills:
+      - label: Languages
+        details: "TypeScript, JavaScript, Java, C#, Python, PHP, Ruby, Kotlin"
+      - label: Frameworks and Web Technologies
+        details: "AstroJS, Spring, Rails, JavaFX, HTML, CSS, Tailwind CSS, Bootstrap"
+      - label: Databases and Infrastructure
+        details: "PostgreSQL, MySQL, MongoDB, SQLite, Cloudflare, Linux, Docker, Git"
+design:
+  theme: customtheme
+  typography:
+    font_size:
+      name: 24pt
+      headline: 16pt
+locale:
+  language: english
+settings:
+  current_date: '2026-02-11'
