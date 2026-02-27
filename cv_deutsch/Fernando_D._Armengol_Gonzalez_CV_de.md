@@ -7,10 +7,10 @@
 
 
 # Über Mich
-Ich verfüge über praktische Erfahrung in der Entwicklung optimierter Anwendungen und Websites, Linux-Serveradministration und Implementierung von Sicherheitsmaßnahmen. Ich spezialisiere mich auf das Design effizienter Lösungen mit Fokus auf Softwareleistung und -sicherheit. Ich zeichne mich durch Anpassungsfähigkeit, Proaktivität, Selbststudium und Engagement für kontinuierliche Verbesserung aus.
+Ich verfüge über praktische Erfahrung in der #strong[Entwicklung optimierter Anwendungen] und #strong[Websites], Linux-#strong[Serveradministration] und Implementierung von Sicherheitsmaßnahmen. Ich spezialisiere mich auf das Design effizienter Lösungen mit Fokus auf Software-#strong[Leistung und -sicherheit]. Ich kann Proaktivität, Engagement, kontinuierliche Verbesserung und leichte Anpassung bieten.
 
 # Berufserfahrung
-## **Geriátrico Doña Rosa**, Junior-Entwickler (Praktikum)
+## **Geriátrico Doña Rosa**, Junior-Fullstack-Entwickler
 
 Alicante, Spanien
 
@@ -24,7 +24,7 @@ Okt 2025 – Feb 2026
 
 
 
-## **SMART & FUN**, Junior-Programmierer
+## **SMART & FUN**, Junior-Webentwickler
 
 Alicante, Spanien
 
@@ -36,7 +36,7 @@ Sep 2023 – Nov 2023
 
 
 
-## **NTT Data**, Junior-Programmierer (Praktikum)
+## **NTT Data**, Junior-Webentwickler
 
 Alicante, Spanien
 
@@ -90,6 +90,6 @@ Mär 2022 – Jun 2022
 # Technische Fähigkeiten
 **Programmiersprachen:** TypeScript, JavaScript, Java, C#, Python, PHP, Ruby, Kotlin
 
-**Frameworks und Web-Technologien:** AstroJS, Spring, Rails, JavaFX, HTML, CSS, Tailwind CSS, Bootstrap
+**Frameworks und Web-Technologien:** React, AstroJS, Spring, Rails, JavaFX, HTML, CSS, Tailwind CSS, Bootstrap
 
 **Datenbanken und Infrastruktur:** PostgreSQL, MySQL, MongoDB, SQLite, Cloudflare, Linux, Docker, Git

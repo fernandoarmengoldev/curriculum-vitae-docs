@@ -87,7 +87,7 @@
   columns: (auto, 1fr),
   column-gutter: 0cm,
   align: horizon + left,
-  [#pad(left: 0.4cm, right: 0.4cm, box(width: 3.5cm, height: 3.5cm, clip: true, radius: 100%, stroke: 2pt + rgb(0, 79, 144), align(center + horizon, image("imagen.jpg", width: 3.85cm, height: 3.85cm, fit: "cover"))))
+  [#pad(left: 0.4cm, right: 0.4cm, box(width: 3.5cm, height: 3.5cm, radius: 50%, stroke: 0.5pt + black, clip: true, align(center + horizon, image("imagen.jpg", width: 3.5cm, height: 3.5cm, fit: "cover"))))
 ],
   [
 = Fernando D. Armengol Gonzalez
@@ -99,7 +99,7 @@
   [#link("mailto:fernandoarmengoldev@gmail.com", icon: false, if-underline: false, if-color: false)[#connection-with-icon("envelope")[fernandoarmengoldev\@gmail.com]]],
   [#link("tel:+34-610-83-88-18", icon: false, if-underline: false, if-color: false)[#connection-with-icon("phone")[610 83 88 18]]],
   [#link("https://github.com/fernandoarmengoldev", icon: false, if-underline: false, if-color: false)[#connection-with-icon("github")[fernandoarmengoldev]]],
-  [#link("https://www.linkedin.com/in/fernando-armengol-gonz%C3%A1lez-090209265/", icon: false, if-underline: false, if-color: false)[#connection-with-icon("linkedin")[Fernando D. Armengol González]]],
+  [#link("https://www.linkedin.com/in/fernando-d-armengol-gonz%C3%A1lez-090209265/", icon: false, if-underline: false, if-color: false)[#connection-with-icon("linkedin")[Fernando D. Armengol González]]],
 )
   ]
 )
@@ -107,13 +107,13 @@
 
 == Über Mich
 
-Ich verfüge über praktische Erfahrung in der Entwicklung optimierter Anwendungen und Websites, Linux-Serveradministration und Implementierung von Sicherheitsmaßnahmen. Ich spezialisiere mich auf das Design effizienter Lösungen mit Fokus auf Softwareleistung und -sicherheit. Ich zeichne mich durch Anpassungsfähigkeit, Proaktivität, Selbststudium und Engagement für kontinuierliche Verbesserung aus.
+Ich verfüge über praktische Erfahrung in der #strong[Entwicklung optimierter Anwendungen] und #strong[Websites], Linux-#strong[Serveradministration] und Implementierung von Sicherheitsmaßnahmen. Ich spezialisiere mich auf das Design effizienter Lösungen mit Fokus auf Software-#strong[Leistung und -sicherheit]. Ich kann Proaktivität, Engagement, kontinuierliche Verbesserung und leichte Anpassung bieten.
 
 == Berufserfahrung
 
 #regular-entry(
   [
-    #strong[Geriátrico Doña Rosa], Junior-Entwickler (Praktikum)
+    #strong[Geriátrico Doña Rosa], Junior-Fullstack-Entwickler
 
     - Entwicklung mehrerer Websites mit Astro, Tailwind CSS und TypeScript
 
@@ -132,7 +132,7 @@ Ich verfüge über praktische Erfahrung in der Entwicklung optimierter Anwendung
 
 #regular-entry(
   [
-    #strong[SMART & FUN], Junior-Programmierer
+    #strong[SMART & FUN], Junior-Webentwickler
 
     - Verantwortlich für die Wartung einer Website
 
@@ -149,7 +149,7 @@ Ich verfüge über praktische Erfahrung in der Entwicklung optimierter Anwendung
 
 #regular-entry(
   [
-    #strong[NTT Data], Junior-Programmierer (Praktikum)
+    #strong[NTT Data], Junior-Webentwickler
 
     - Verantwortlich für Wartung und Aktualisierung des Web-Frontends
 
@@ -233,6 +233,6 @@ Ich verfüge über praktische Erfahrung in der Entwicklung optimierter Anwendung
 
 #strong[Programmiersprachen:] TypeScript, JavaScript, Java, C\#, Python, PHP, Ruby, Kotlin
 
-#strong[Frameworks und Web-Technologien:] AstroJS, Spring, Rails, JavaFX, HTML, CSS, Tailwind CSS, Bootstrap
+#strong[Frameworks und Web-Technologien:] React, AstroJS, Spring, Rails, JavaFX, HTML, CSS, Tailwind CSS, Bootstrap
 
 #strong[Datenbanken und Infrastruktur:] PostgreSQL, MySQL, MongoDB, SQLite, Cloudflare, Linux, Docker, Git

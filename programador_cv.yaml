@@ -11,14 +11,14 @@ cv:
       username: fernandoarmengoldev
   custom_connections:
     - placeholder: Fernando D. Armengol González
-      url: https://www.linkedin.com/in/fernando-armengol-gonz%C3%A1lez-090209265/
+      url: https://www.linkedin.com/in/fernando-d-armengol-gonz%C3%A1lez-090209265/
       fontawesome_icon: linkedin
   sections:
     sobre_mí:
-      - "Poseo experiencia práctica en el desarrollo de aplicaciones y sitios web optimizados, administración de servidores Linux e implementación de medidas de seguridad. Me especializo en diseñar soluciones eficientes priorizando el rendimiento y la seguridad del software. Me destaco por mi capacidad de adaptación, proactividad, autodidacta y compromiso con la mejora continua."
+      - "Poseo experiencia práctica en el #strong[desarrollo de aplicaciones] y sitios #strong[web] optimizados, #strong[administración de servidores] Linux e implementación de medidas de seguridad. Me especializo en diseñar soluciones eficientes priorizando el #strong[rendimiento y la seguridad] del software. Puedo ofrecer proactividad, compromiso, mejora continua y fácil adaptación."
     experiencia_laboral:
       - company: Geriátrico Doña Rosa
-        position: Desarrollador Junior (Prácticas)
+        position: Desarrollador Fullstack Junior
         start_date: 2025-10
         end_date: 2026-02
         location: Alicante, España
@@ -27,7 +27,7 @@ cv:
           - "Encargado de la creación y configuración de un servidor Linux y sus servicios"
           - "Administrador de seguridad mediante Cloudflare"
       - company: SMART & FUN
-        position: Programador Junior
+        position: Desarrollador Web Junior
         start_date: 2023-09
         end_date: 2023-11
         location: Alicante, España
@@ -35,7 +35,7 @@ cv:
           - "Responsable del mantenimiento de una página web"
           - "Uso de Ruby, Rails, HTML, CSS, JavaScript, y Bootstrap"
       - company: NTT Data
-        position: Programador Junior (Prácticas)
+        position: Desarrollador Web Junior
         start_date: 2022-03
         end_date: 2022-06
         location: Alicante, España
@@ -73,7 +73,7 @@ cv:
       - label: Lenguajes
         details: "TypeScript, JavaScript, Java, C#, Python, PHP, Ruby, Kotlin"
       - label: Frameworks y Tecnologías Web
-        details: "AstroJS, Spring, Rails, JavaFX, HTML, CSS, Tailwind CSS, Bootstrap"
+        details: "React, AstroJS, Spring, Rails, JavaFX, HTML, CSS, Tailwind CSS, Bootstrap"
       - label: Bases de Datos e Infraestructura
         details: "PostgreSQL, MySQL, MongoDB, SQLite, Cloudflare, Linux, Docker, Git"
 design:

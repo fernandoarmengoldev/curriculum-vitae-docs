@@ -11,14 +11,14 @@ cv:
       username: fernandoarmengoldev
   custom_connections:
     - placeholder: Fernando D. Armengol González
-      url: https://www.linkedin.com/in/fernando-armengol-gonz%C3%A1lez-090209265/
+      url: https://www.linkedin.com/in/fernando-d-armengol-gonz%C3%A1lez-090209265/
       fontawesome_icon: linkedin
   sections:
     über_mich:
-      - "Ich verfüge über praktische Erfahrung in der Entwicklung optimierter Anwendungen und Websites, Linux-Serveradministration und Implementierung von Sicherheitsmaßnahmen. Ich spezialisiere mich auf das Design effizienter Lösungen mit Fokus auf Softwareleistung und -sicherheit. Ich zeichne mich durch Anpassungsfähigkeit, Proaktivität, Selbststudium und Engagement für kontinuierliche Verbesserung aus."
+      - "Ich verfüge über praktische Erfahrung in der #strong[Entwicklung optimierter Anwendungen] und #strong[Websites], Linux-#strong[Serveradministration] und Implementierung von Sicherheitsmaßnahmen. Ich spezialisiere mich auf das Design effizienter Lösungen mit Fokus auf Software-#strong[Leistung und -sicherheit]. Ich kann Proaktivität, Engagement, kontinuierliche Verbesserung und leichte Anpassung bieten."
     berufserfahrung:
       - company: Geriátrico Doña Rosa
-        position: Junior-Entwickler (Praktikum)
+        position: Junior-Fullstack-Entwickler
         start_date: 2025-10
         end_date: 2026-02
         location: Alicante, Spanien
@@ -27,7 +27,7 @@ cv:
           - "Verantwortlich für die Erstellung und Konfiguration eines Linux-Servers und seiner Dienste"
           - "Sicherheitsadministrator mit Cloudflare"
       - company: SMART & FUN
-        position: Junior-Programmierer
+        position: Junior-Webentwickler
         start_date: 2023-09
         end_date: 2023-11
         location: Alicante, Spanien
@@ -35,7 +35,7 @@ cv:
           - "Verantwortlich für die Wartung einer Website"
           - "Verwendung von Ruby, Rails, HTML, CSS, JavaScript und Bootstrap"
       - company: NTT Data
-        position: Junior-Programmierer (Praktikum)
+        position: Junior-Webentwickler
         start_date: 2022-03
         end_date: 2022-06
         location: Alicante, Spanien
@@ -73,7 +73,7 @@ cv:
       - label: Programmiersprachen
         details: "TypeScript, JavaScript, Java, C#, Python, PHP, Ruby, Kotlin"
       - label: Frameworks und Web-Technologien
-        details: "AstroJS, Spring, Rails, JavaFX, HTML, CSS, Tailwind CSS, Bootstrap"
+        details: "React, AstroJS, Spring, Rails, JavaFX, HTML, CSS, Tailwind CSS, Bootstrap"
       - label: Datenbanken und Infrastruktur
         details: "PostgreSQL, MySQL, MongoDB, SQLite, Cloudflare, Linux, Docker, Git"
 design:

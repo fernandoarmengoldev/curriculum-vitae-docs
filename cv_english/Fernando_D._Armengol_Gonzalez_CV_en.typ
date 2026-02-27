@@ -87,7 +87,7 @@
   columns: (auto, 1fr),
   column-gutter: 0cm,
   align: horizon + left,
-  [#pad(left: 0.4cm, right: 0.4cm, box(width: 3.5cm, height: 3.5cm, clip: true, radius: 100%, stroke: 2pt + rgb(0, 79, 144), align(center + horizon, image("imagen.jpg", width: 3.85cm, height: 3.85cm, fit: "cover"))))
+  [#pad(left: 0.4cm, right: 0.4cm, box(width: 3.5cm, height: 3.5cm, radius: 50%, stroke: 0.5pt + black, clip: true, align(center + horizon, image("imagen.jpg", width: 3.5cm, height: 3.5cm, fit: "cover"))))
 ],
   [
 = Fernando D. Armengol Gonzalez
@@ -99,7 +99,7 @@
   [#link("mailto:fernandoarmengoldev@gmail.com", icon: false, if-underline: false, if-color: false)[#connection-with-icon("envelope")[fernandoarmengoldev\@gmail.com]]],
   [#link("tel:+34-610-83-88-18", icon: false, if-underline: false, if-color: false)[#connection-with-icon("phone")[610 83 88 18]]],
   [#link("https://github.com/fernandoarmengoldev", icon: false, if-underline: false, if-color: false)[#connection-with-icon("github")[fernandoarmengoldev]]],
-  [#link("https://www.linkedin.com/in/fernando-armengol-gonz%C3%A1lez-090209265/", icon: false, if-underline: false, if-color: false)[#connection-with-icon("linkedin")[Fernando D. Armengol González]]],
+  [#link("https://www.linkedin.com/in/fernando-d-armengol-gonz%C3%A1lez-090209265/", icon: false, if-underline: false, if-color: false)[#connection-with-icon("linkedin")[Fernando D. Armengol González]]],
 )
   ]
 )
@@ -107,13 +107,13 @@
 
 == About Me
 
-I have practical experience in developing optimized applications and websites, Linux server administration, and implementing security measures. I specialize in designing efficient solutions prioritizing software performance and security. I stand out for my adaptability, proactivity, self-learning and commitment to continuous improvement.
+I have practical experience in #strong[developing optimized applications] and #strong[websites], Linux #strong[server administration], and implementing security measures. I specialize in designing efficient solutions prioritizing software #strong[performance and security]. I can offer proactivity, commitment, continuous improvement and easy adaptation.
 
 == Work Experience
 
 #regular-entry(
   [
-    #strong[Geriátrico Doña Rosa], Junior Developer (Internship)
+    #strong[Geriátrico Doña Rosa], Junior Fullstack Developer
 
     - Development of multiple websites using Astro, Tailwind CSS, and TypeScript
 
@@ -132,7 +132,7 @@ I have practical experience in developing optimized applications and websites, L
 
 #regular-entry(
   [
-    #strong[SMART & FUN], Junior Programmer
+    #strong[SMART & FUN], Junior Web Developer
 
     - Responsible for maintaining a website
 
@@ -149,7 +149,7 @@ I have practical experience in developing optimized applications and websites, L
 
 #regular-entry(
   [
-    #strong[NTT Data], Junior Programmer (Internship)
+    #strong[NTT Data], Junior Web Developer
 
     - Responsible for maintenance and updates of web frontend
 
@@ -233,6 +233,6 @@ I have practical experience in developing optimized applications and websites, L
 
 #strong[Languages:] TypeScript, JavaScript, Java, C\#, Python, PHP, Ruby, Kotlin
 
-#strong[Frameworks and Web Technologies:] AstroJS, Spring, Rails, JavaFX, HTML, CSS, Tailwind CSS, Bootstrap
+#strong[Frameworks and Web Technologies:] React, AstroJS, Spring, Rails, JavaFX, HTML, CSS, Tailwind CSS, Bootstrap
 
 #strong[Databases and Infrastructure:] PostgreSQL, MySQL, MongoDB, SQLite, Cloudflare, Linux, Docker, Git

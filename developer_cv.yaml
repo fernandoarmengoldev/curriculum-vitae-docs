@@ -11,14 +11,14 @@ cv:
       username: fernandoarmengoldev
   custom_connections:
     - placeholder: Fernando D. Armengol González
-      url: https://www.linkedin.com/in/fernando-armengol-gonz%C3%A1lez-090209265/
+      url: https://www.linkedin.com/in/fernando-d-armengol-gonz%C3%A1lez-090209265/
       fontawesome_icon: linkedin
   sections:
     about_me:
-      - "I have practical experience in developing optimized applications and websites, Linux server administration, and implementing security measures. I specialize in designing efficient solutions prioritizing software performance and security. I stand out for my adaptability, proactivity, self-learning and commitment to continuous improvement."
+      - "I have practical experience in #strong[developing optimized applications] and #strong[websites], Linux #strong[server administration], and implementing security measures. I specialize in designing efficient solutions prioritizing software #strong[performance and security]. I can offer proactivity, commitment, continuous improvement and easy adaptation."
     work_experience:
       - company: Geriátrico Doña Rosa
-        position: Junior Developer (Internship)
+        position: Junior Fullstack Developer
         start_date: 2025-10
         end_date: 2026-02
         location: Alicante, Spain
@@ -27,7 +27,7 @@ cv:
           - "In charge of creating and configuring a Linux server and its services"
           - "Security administrator using Cloudflare"
       - company: SMART & FUN
-        position: Junior Programmer
+        position: Junior Web Developer
         start_date: 2023-09
         end_date: 2023-11
         location: Alicante, Spain
@@ -35,7 +35,7 @@ cv:
           - "Responsible for maintaining a website"
           - "Used Ruby, Rails, HTML, CSS, JavaScript, and Bootstrap"
       - company: NTT Data
-        position: Junior Programmer (Internship)
+        position: Junior Web Developer
         start_date: 2022-03
         end_date: 2022-06
         location: Alicante, Spain
@@ -73,7 +73,7 @@ cv:
       - label: Languages
         details: "TypeScript, JavaScript, Java, C#, Python, PHP, Ruby, Kotlin"
       - label: Frameworks and Web Technologies
-        details: "AstroJS, Spring, Rails, JavaFX, HTML, CSS, Tailwind CSS, Bootstrap"
+        details: "React, AstroJS, Spring, Rails, JavaFX, HTML, CSS, Tailwind CSS, Bootstrap"
       - label: Databases and Infrastructure
         details: "PostgreSQL, MySQL, MongoDB, SQLite, Cloudflare, Linux, Docker, Git"
 design:

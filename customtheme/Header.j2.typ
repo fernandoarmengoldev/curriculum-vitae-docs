@@ -1,5 +1,5 @@
 {% macro image() %}
-#pad(left: {{ design.header.photo_space_left }}, right: {{ design.header.photo_space_right }}, box(width: {{ design.header.photo_width }}, height: {{ design.header.photo_width }}, clip: true, radius: 100%, stroke: 2pt + rgb(0, 79, 144), align(center + horizon, image("{{ cv.photo.name }}", width: 3.85cm, height: 3.85cm, fit: "cover"))))
+#pad(left: {{ design.header.photo_space_left }}, right: {{ design.header.photo_space_right }}, box(width: {{ design.header.photo_width }}, height: {{ design.header.photo_width }}, radius: 50%, stroke: 0.5pt + black, clip: true, align(center + horizon, image("{{ cv.photo.name }}", width: {{ design.header.photo_width }}, height: {{ design.header.photo_width }}, fit: "cover"))))
 {% endmacro %}
 
 {% if cv.photo %}

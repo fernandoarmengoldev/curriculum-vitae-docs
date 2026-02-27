@@ -87,7 +87,7 @@
   columns: (auto, 1fr),
   column-gutter: 0cm,
   align: horizon + left,
-  [#pad(left: 0.4cm, right: 0.4cm, box(width: 3.5cm, height: 3.5cm, clip: true, radius: 100%, stroke: 2pt + rgb(0, 79, 144), align(center + horizon, image("imagen.jpg", width: 3.85cm, height: 3.85cm, fit: "cover"))))
+  [#pad(left: 0.4cm, right: 0.4cm, box(width: 3.5cm, height: 3.5cm, radius: 50%, stroke: 0.5pt + black, clip: true, align(center + horizon, image("imagen.jpg", width: 3.5cm, height: 3.5cm, fit: "cover"))))
 ],
   [
 = Fernando D. Armengol Gonzalez
@@ -99,7 +99,7 @@
   [#link("mailto:fernandoarmengoldev@gmail.com", icon: false, if-underline: false, if-color: false)[#connection-with-icon("envelope")[fernandoarmengoldev\@gmail.com]]],
   [#link("tel:+34-610-83-88-18", icon: false, if-underline: false, if-color: false)[#connection-with-icon("phone")[610 83 88 18]]],
   [#link("https://github.com/fernandoarmengoldev", icon: false, if-underline: false, if-color: false)[#connection-with-icon("github")[fernandoarmengoldev]]],
-  [#link("https://www.linkedin.com/in/fernando-armengol-gonz%C3%A1lez-090209265/", icon: false, if-underline: false, if-color: false)[#connection-with-icon("linkedin")[Fernando D. Armengol González]]],
+  [#link("https://www.linkedin.com/in/fernando-d-armengol-gonz%C3%A1lez-090209265/", icon: false, if-underline: false, if-color: false)[#connection-with-icon("linkedin")[Fernando D. Armengol González]]],
 )
   ]
 )
@@ -107,13 +107,13 @@
 
 == Sobre Mí
 
-Poseo experiencia práctica en el desarrollo de aplicaciones y sitios web optimizados, administración de servidores Linux e implementación de medidas de seguridad. Me especializo en diseñar soluciones eficientes priorizando el rendimiento y la seguridad del software. Me destaco por mi capacidad de adaptación, proactividad, autodidacta y compromiso con la mejora continua.
+Poseo experiencia práctica en el #strong[desarrollo de aplicaciones] y sitios #strong[web] optimizados, #strong[administración de servidores] Linux e implementación de medidas de seguridad. Me especializo en diseñar soluciones eficientes priorizando el #strong[rendimiento y la seguridad] del software. Puedo ofrecer proactividad, compromiso, mejora continua y fácil adaptación.
 
 == Experiencia Laboral
 
 #regular-entry(
   [
-    #strong[Geriátrico Doña Rosa], Desarrollador Junior (Prácticas)
+    #strong[Geriátrico Doña Rosa], Desarrollador Fullstack Junior
 
     - Desarrollo de múltiples sitios web utilizando Astro, Tailwind CSS y TypeScript
 
@@ -132,7 +132,7 @@ Poseo experiencia práctica en el desarrollo de aplicaciones y sitios web optimi
 
 #regular-entry(
   [
-    #strong[SMART & FUN], Programador Junior
+    #strong[SMART & FUN], Desarrollador Web Junior
 
     - Responsable del mantenimiento de una página web
 
@@ -149,7 +149,7 @@ Poseo experiencia práctica en el desarrollo de aplicaciones y sitios web optimi
 
 #regular-entry(
   [
-    #strong[NTT Data], Programador Junior (Prácticas)
+    #strong[NTT Data], Desarrollador Web Junior
 
     - Responsable de mantenimiento y actualización del frontend de una web
 
@@ -233,6 +233,6 @@ Poseo experiencia práctica en el desarrollo de aplicaciones y sitios web optimi
 
 #strong[Lenguajes:] TypeScript, JavaScript, Java, C\#, Python, PHP, Ruby, Kotlin
 
-#strong[Frameworks y Tecnologías Web:] AstroJS, Spring, Rails, JavaFX, HTML, CSS, Tailwind CSS, Bootstrap
+#strong[Frameworks y Tecnologías Web:] React, AstroJS, Spring, Rails, JavaFX, HTML, CSS, Tailwind CSS, Bootstrap
 
 #strong[Bases de Datos e Infraestructura:] PostgreSQL, MySQL, MongoDB, SQLite, Cloudflare, Linux, Docker, Git

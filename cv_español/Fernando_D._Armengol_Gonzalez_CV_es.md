@@ -7,10 +7,10 @@
 
 
 # Sobre Mí
-Poseo experiencia práctica en el desarrollo de aplicaciones y sitios web optimizados, administración de servidores Linux e implementación de medidas de seguridad. Me especializo en diseñar soluciones eficientes priorizando el rendimiento y la seguridad del software. Me destaco por mi capacidad de adaptación, proactividad, autodidacta y compromiso con la mejora continua.
+Poseo experiencia práctica en el #strong[desarrollo de aplicaciones] y sitios #strong[web] optimizados, #strong[administración de servidores] Linux e implementación de medidas de seguridad. Me especializo en diseñar soluciones eficientes priorizando el #strong[rendimiento y la seguridad] del software. Puedo ofrecer proactividad, compromiso, mejora continua y fácil adaptación.
 
 # Experiencia Laboral
-## **Geriátrico Doña Rosa**, Desarrollador Junior (Prácticas)
+## **Geriátrico Doña Rosa**, Desarrollador Fullstack Junior
 
 Alicante, España
 
@@ -24,7 +24,7 @@ Oct 2025 – Feb 2026
 
 
 
-## **SMART & FUN**, Programador Junior
+## **SMART & FUN**, Desarrollador Web Junior
 
 Alicante, España
 
@@ -36,7 +36,7 @@ Sep 2023 – Nov 2023
 
 
 
-## **NTT Data**, Programador Junior (Prácticas)
+## **NTT Data**, Desarrollador Web Junior
 
 Alicante, España
 
@@ -90,6 +90,6 @@ Mar 2022 – Jun 2022
 # Competencias Digitales
 **Lenguajes:** TypeScript, JavaScript, Java, C#, Python, PHP, Ruby, Kotlin
 
-**Frameworks y Tecnologías Web:** AstroJS, Spring, Rails, JavaFX, HTML, CSS, Tailwind CSS, Bootstrap
+**Frameworks y Tecnologías Web:** React, AstroJS, Spring, Rails, JavaFX, HTML, CSS, Tailwind CSS, Bootstrap
 
 **Bases de Datos e Infraestructura:** PostgreSQL, MySQL, MongoDB, SQLite, Cloudflare, Linux, Docker, Git
