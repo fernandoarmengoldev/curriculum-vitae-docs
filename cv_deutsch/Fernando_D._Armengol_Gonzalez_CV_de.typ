@@ -5,7 +5,7 @@
 #show: rendercv.with(
   name: "Fernando D. Armengol Gonzalez",
   footer: context { [#emph[Fernando D. Armengol Gonzalez -- #str(here().page())\/#str(counter(page).final().first())]] },
-  top-note: [ #emph[Zuletzt aktualisiert Feb 2026] ],
+  top-note: [ #emph[Zuletzt aktualisiert Jun 2026] ],
   locale-catalog-language: "de",
   page-size: "us-letter",
   page-top-margin: 0.7in,
@@ -77,8 +77,8 @@
   entries-highlights-space-between-bullet-and-text: 0.5em,
   date: datetime(
     year: 2026,
-    month: 2,
-    day: 11,
+    month: 6,
+    day: 9,
   ),
 )
 
@@ -87,7 +87,7 @@
   columns: (auto, 1fr),
   column-gutter: 0cm,
   align: horizon + left,
-  [#pad(left: 0.4cm, right: 0.4cm, box(width: 3.5cm, height: 3.5cm, radius: 50%, stroke: 0.5pt + black, clip: true, align(center + horizon, image("imagen.png", width: 3.5cm, height: 3.5cm, fit: "cover"))))
+  [#pad(left: 0.4cm, right: 0.4cm, box(width: 3.5cm, height: 3.5cm, radius: 50%, stroke: 0.5pt + black, clip: true, align(center + horizon, image("imagen.jpg", width: 3.5cm, height: 3.5cm, fit: "cover"))))
 ],
   [
 = Fernando D. Armengol Gonzalez

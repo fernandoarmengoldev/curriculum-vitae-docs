@@ -5,7 +5,7 @@ cv:
   location: Alicante, Spanien
   email: dev@fernandoarmengol.com
   phone: +34-610-838-818
-  photo: imagen.png
+  photo: imagen.jpg
   social_networks:
     - network: GitHub
       username: fernandoarmengoldev
@@ -85,7 +85,7 @@ design:
 locale:
   language: german
 settings:
-  current_date: '2026-02-11'
+  current_date: '2026-06-09'
   render_command:
     typst_path: cv_deutsch/Fernando_D._Armengol_Gonzalez_CV_de.typ
     pdf_path: cv_deutsch/Fernando_D._Armengol_Gonzalez_CV_de.pdf
