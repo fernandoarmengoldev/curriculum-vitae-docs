@@ -1,7 +1,7 @@
 # Fernando D. Armengol Gonzalez's CV
 
 - Phone: +34 610 83 88 18
-- Email: [fernandoarmengoldev@gmail.com](mailto:fernandoarmengoldev@gmail.com)
+- Email: [dev@fernandoarmengol.com](mailto:dev@fernandoarmengol.com)
 - Location: Alicante, Spain
 - GitHub: [fernandoarmengoldev](https://github.com/fernandoarmengoldev)
 

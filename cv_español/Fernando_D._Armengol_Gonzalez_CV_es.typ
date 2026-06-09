@@ -87,7 +87,7 @@
   columns: (auto, 1fr),
   column-gutter: 0cm,
   align: horizon + left,
-  [#pad(left: 0.4cm, right: 0.4cm, box(width: 3.5cm, height: 3.5cm, radius: 50%, stroke: 0.5pt + black, clip: true, align(center + horizon, image("imagen.jpg", width: 3.5cm, height: 3.5cm, fit: "cover"))))
+  [#pad(left: 0.4cm, right: 0.4cm, box(width: 3.5cm, height: 3.5cm, radius: 50%, stroke: 0.5pt + black, clip: true, align(center + horizon, image("imagen.png", width: 3.5cm, height: 3.5cm, fit: "cover"))))
 ],
   [
 = Fernando D. Armengol Gonzalez
@@ -96,7 +96,7 @@
 
 #connections(
   [#connection-with-icon("location-dot")[Alicante, España]],
-  [#link("mailto:fernandoarmengoldev@gmail.com", icon: false, if-underline: false, if-color: false)[#connection-with-icon("envelope")[fernandoarmengoldev\@gmail.com]]],
+  [#link("mailto:dev@fernandoarmengol.com", icon: false, if-underline: false, if-color: false)[#connection-with-icon("envelope")[dev\@fernandoarmengol.com]]],
   [#link("tel:+34-610-83-88-18", icon: false, if-underline: false, if-color: false)[#connection-with-icon("phone")[610 83 88 18]]],
   [#link("https://github.com/fernandoarmengoldev", icon: false, if-underline: false, if-color: false)[#connection-with-icon("github")[fernandoarmengoldev]]],
   [#link("https://www.linkedin.com/in/fernando-d-armengol-gonz%C3%A1lez-090209265/", icon: false, if-underline: false, if-color: false)[#connection-with-icon("linkedin")[Fernando D. Armengol González]]],

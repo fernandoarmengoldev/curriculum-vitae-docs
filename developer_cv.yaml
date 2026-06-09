@@ -3,9 +3,9 @@ cv:
   name: "Fernando D. Armengol Gonzalez"
   headline: "Fullstack Software Developer"
   location: Alicante, Spain
-  email: fernandoarmengoldev@gmail.com
+  email: dev@fernandoarmengol.com
   phone: +34-610-838-818
-  photo: imagen.jpg
+  photo: imagen.png
   social_networks:
     - network: GitHub
       username: fernandoarmengoldev
@@ -86,3 +86,9 @@ locale:
   language: english
 settings:
   current_date: '2026-02-11'
+  render_command:
+    typst_path: cv_english/Fernando_D._Armengol_Gonzalez_CV_en.typ
+    pdf_path: cv_english/Fernando_D._Armengol_Gonzalez_CV_en.pdf
+    markdown_path: cv_english/Fernando_D._Armengol_Gonzalez_CV_en.md
+    html_path: cv_english/Fernando_D._Armengol_Gonzalez_CV_en.html
+    png_path: cv_english/Fernando_D._Armengol_Gonzalez_CV_en.png
