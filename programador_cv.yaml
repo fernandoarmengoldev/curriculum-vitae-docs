@@ -64,11 +64,11 @@ cv:
       - label: Castellano
         details: Nativo
       - label: Valenciano
-        details: Alto
+        details: B2
       - label: Inglés
-        details: Intermedio
+        details: B2
       - label: Alemán
-        details: Básico
+        details: A1
     competencias_digitales:
       - label: Lenguajes
         details: "TypeScript, JavaScript, Java, C#, Python, PHP, Ruby, Kotlin"
@@ -85,7 +85,7 @@ design:
 locale:
   language: spanish
 settings:
-  current_date: '2026-06-09'
+  current_date: '2026-10-12'
   render_command:
     typst_path: cv_español/Fernando_D._Armengol_Gonzalez_CV_es.typ
     pdf_path: cv_español/Fernando_D._Armengol_Gonzalez_CV_es.pdf

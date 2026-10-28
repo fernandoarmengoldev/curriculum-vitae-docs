@@ -81,11 +81,11 @@ Mar 2022 – Jun 2022
 # Idiomas
 **Castellano:** Nativo
 
-**Valenciano:** Alto
+**Valenciano:** B2
 
-**Inglés:** Intermedio
+**Inglés:** B2
 
-**Alemán:** Básico
+**Alemán:** A1
 
 # Competencias Digitales
 **Lenguajes:** TypeScript, JavaScript, Java, C#, Python, PHP, Ruby, Kotlin

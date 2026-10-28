@@ -5,7 +5,7 @@
 #show: rendercv.with(
   name: "Fernando D. Armengol Gonzalez",
   footer: context { [#emph[Fernando D. Armengol Gonzalez -- #str(here().page())\/#str(counter(page).final().first())]] },
-  top-note: [ #emph[Última actualización Jun 2026] ],
+  top-note: [ #emph[Última actualización Oct 2026] ],
   locale-catalog-language: "es",
   page-size: "us-letter",
   page-top-margin: 0.7in,
@@ -77,8 +77,8 @@
   entries-highlights-space-between-bullet-and-text: 0.5em,
   date: datetime(
     year: 2026,
-    month: 6,
-    day: 9,
+    month: 10,
+    day: 12,
   ),
 )
 
@@ -223,11 +223,11 @@ Poseo experiencia práctica en el #strong[desarrollo de aplicaciones] y sitios #
 
 #strong[Castellano:] Nativo
 
-#strong[Valenciano:] Alto
+#strong[Valenciano:] B2
 
-#strong[Inglés:] Intermedio
+#strong[Inglés:] B2
 
-#strong[Alemán:] Básico
+#strong[Alemán:] A1
 
 == Competencias Digitales
 
