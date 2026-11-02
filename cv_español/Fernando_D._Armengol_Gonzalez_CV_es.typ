@@ -5,7 +5,7 @@
 #show: rendercv.with(
   name: "Fernando D. Armengol Gonzalez",
   footer: context { [#emph[Fernando D. Armengol Gonzalez -- #str(here().page())\/#str(counter(page).final().first())]] },
-  top-note: [ #emph[Última actualización Oct 2026] ],
+  top-note: [ #emph[Última actualización Nov 2026] ],
   locale-catalog-language: "es",
   page-size: "us-letter",
   page-top-margin: 0.7in,
@@ -77,8 +77,8 @@
   entries-highlights-space-between-bullet-and-text: 0.5em,
   date: datetime(
     year: 2026,
-    month: 10,
-    day: 12,
+    month: 11,
+    day: 2,
   ),
 )
 

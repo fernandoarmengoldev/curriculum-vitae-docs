@@ -1,63 +1,63 @@
 # Curriculum Vitae Docs
 
-Repositorio para gestionar y generar currículums vitae en múltiples idiomas utilizando [RenderCV](https://rendercv.com).
+A repository for managing and generating CVs in multiple languages using [RenderCV](https://rendercv.com).
 
-## Estructura del Proyecto
+## Project Structure
 
-### Archivos Fuente (YAML)
+### Source Files (YAML)
 
-- `programador_cv.yaml` - CV en español
-- `developer_cv.yaml` - CV en inglés
-- `entwickler_cv.yaml` - CV en alemán
-- `plantilla_cv.yaml` - Plantilla base de ejemplo con todas las opciones disponibles
+- `programador_cv.yaml` - CV in Spanish
+- `developer_cv.yaml` - CV in English
+- `entwickler_cv.yaml` - CV in German
+- `plantilla_cv.yaml` - Base template example with all available options
 
-### Directorios de Salida
+### Output Directories
 
-Cada idioma tiene su propio directorio con los CVs generados en múltiples formatos:
+Each language has its own directory containing generated CVs in multiple formats:
 
-- `cv_español/` - CVs en español (PDF, HTML, Markdown, PNG, Typst)
-- `cv_english/` - CVs en inglés (PDF, HTML, Markdown, PNG, Typst)
-- `cv_deutsch/` - CVs en alemán (PDF, HTML, Markdown, PNG, Typst)
+- `cv_español/` - CVs in Spanish (PDF, HTML, Markdown, PNG, Typst)
+- `cv_english/` - CVs in English (PDF, HTML, Markdown, PNG, Typst)
+- `cv_deutsch/` - CVs in German (PDF, HTML, Markdown, PNG, Typst)
 
-### Recursos
+### Resources
 
-- `customtheme/` - Tema personalizado para RenderCV
-- `imagen.jpg` - Foto de perfil para el CV
-- `imagen.png` - Foto de perfil en formato PNG
-- `rendercv_output/` - Salida por defecto de RenderCV
+- `customtheme/` - Custom theme for RenderCV
+- `imagen.jpg` - CV profile photo
+- `imagen.png` - Profile image in PNG format
+- `rendercv_output/` - Default RenderCV output
 
-## Cómo Funciona
+## How It Works
 
-RenderCV lee los archivos YAML y genera CVs profesionalmente diseñados en múltiples formatos:
+RenderCV reads the YAML files and generates professionally designed CVs in multiple formats:
 
-1. **YAML → RenderCV** - Define la estructura y contenido del CV
-2. **RenderCV → Formatos** - Genera PDF, HTML, Markdown, Typst y PNG
-3. **Tema Personalizado** - Aplica el diseño definido en `customtheme/`
+1. **YAML → RenderCV** - Defines the CV structure and content
+2. **RenderCV → Formats** - Generates PDF, HTML, Markdown, Typst, and PNG files
+3. **Custom Theme** - Applies the design defined in `customtheme/`
 
-## Contenido del CV
+## CV Contents
 
-El CV incluye las siguientes secciones:
+The CVs include the following sections:
 
-- Información personal (nombre, headline, ubicación, email, teléfono, foto)
-- Redes sociales (GitHub, LinkedIn)
-- Sobre mí / About me / Über mich
-- Experiencia laboral / Work experience / Berufserfahrung
-- Educación / Education / Ausbildung
-- Cursos complementarios / Additional courses / Zusätzliche Kurse
-- Idiomas / Languages / Sprachen
-- Competencias técnicas / Technical skills / Technische Fähigkeiten
+- Personal information (name, headline, location, email, phone number, photo)
+- Social networks (GitHub, LinkedIn)
+- About me / Sobre mí / Über mich
+- Work experience / Experiencia laboral / Berufserfahrung
+- Education / Educación / Ausbildung
+- Additional courses / Cursos complementarios / Zusätzliche Kurse
+- Languages / Idiomas / Sprachen
+- Technical skills / Competencias técnicas / Technische Fähigkeiten
 
-## Tecnologías Mencionadas
+## Technologies Mentioned
 
-**Lenguajes:** TypeScript, JavaScript, Java, C#, Python, PHP, Ruby, Kotlin
+**Languages:** TypeScript, JavaScript, Java, C#, Python, PHP, Ruby, Kotlin
 
-**Frameworks y Web:** AstroJS, Spring, Rails, JavaFX, HTML, CSS, Tailwind CSS, Bootstrap
+**Frameworks and Web:** AstroJS, Spring, Rails, JavaFX, HTML, CSS, Tailwind CSS, Bootstrap
 
-**Bases de Datos e Infraestructura:** PostgreSQL, MySQL, MongoDB, SQLite, Cloudflare, Linux, Docker, Git
+**Databases and Infrastructure:** PostgreSQL, MySQL, MongoDB, SQLite, Cloudflare, Linux, Docker, Git
 
-## Generar los CVs
+## Generate the CVs
 
-Para generar los CVs desde los archivos YAML, usa RenderCV:
+To generate the CVs from the YAML files, use RenderCV:
 
 ```bash
 rendercv render programador_cv.yaml
@@ -65,4 +65,4 @@ rendercv render developer_cv.yaml
 rendercv render entwickler_cv.yaml
 ```
 
-Los CVs se generarán en el directorio especificado en `render_command` de cada archivo YAML.
+The CVs will be generated in the directories specified by `render_command` in each YAML file.
